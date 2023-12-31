@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 animal
 kgf
 baghi
 tiger
+=======
+golmal
+tiger
+ggg
+>>>>>>> movie
